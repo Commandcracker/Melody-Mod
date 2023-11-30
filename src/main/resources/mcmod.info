@@ -1,0 +1,16 @@
+[
+{
+  "modid": "melodymod",
+  "name": "Melody Mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Commandcracker/Melody-Mod",
+  "updateUrl": "",
+  "authorList": ["Commandcracker"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
